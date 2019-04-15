@@ -12,7 +12,7 @@ The commands are:
 
 **do-what-it-says** (this command reads the command form the random.txt file)
 
-Click **[Here]**(/liri-walk-through.mov) for a video walk-throuh of the app. 
+Click **[Here](/liri-walk-through.mov)** for a video walk-throuh of the app. 
 
 
 
