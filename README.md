@@ -2,7 +2,7 @@
 
 This application takes in the following node commands and prints out to the console as well as to the file log.txt information about the subject searched.
 
-The commands are:
+**The commands are:**
 
 **spotify-this-song** {choose a song name here}
 
