@@ -12,7 +12,7 @@ concert-this {choose a band/artist name to see their next show}
 
 do-what-it-says (this command reads the command form the random.txt file)
 
-Click [Here](/liri-walk-through.mov) for a video walk-throuh of the app. 
+Click [Here](/assets/images-vids/liri-walk-through.mov) for a video walk-throuh of the app. 
 
 
 
