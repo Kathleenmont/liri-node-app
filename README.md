@@ -12,11 +12,9 @@ This application takes in the following node commands and prints out to the cons
 
 **do-what-it-says** (this command reads the command form the random.txt file)
 
-<<<<<<< HEAD
+
 Click [Here](/assets/images-vids/liri-walk-through.mov) for a video walk-throuh of the app. 
-=======
-Click **[Here](/liri-walk-through.mov)** for a video walk-throuh of the app. 
->>>>>>> 0581e0e01d36146b96b3821b345b12981e711df2
+
 
 
 
